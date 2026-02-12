@@ -153,6 +153,3 @@ Future expansions may include:
 Computer Science Research Archive  
 Maintained as a structured and evolving technical documentation project.
 
-
-## 📂 Repository Structure
-
