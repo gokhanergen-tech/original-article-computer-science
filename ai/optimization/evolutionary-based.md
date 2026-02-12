@@ -5,6 +5,12 @@ These algorithms use **mutation, crossover, and selection** to evolve candidate 
 
 ---
 
+### Key Algorithms
+
+- **DE** — Differential Evolution
+
+---
+
 ## 2. Differential Evolution (DE)
 
 - **Year:** 1997
