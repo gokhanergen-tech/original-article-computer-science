@@ -6,7 +6,7 @@ This repository is designed as a long-term technical knowledge base combining ma
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 The objective of this repository is to:
 
@@ -18,9 +18,9 @@ The objective of this repository is to:
 
 ---
 
-## 🧠 Core Domains
+##  Core Domains
 
-### 🤖 Artificial Intelligence
+###  Artificial Intelligence
 
 - Foundations of AI
 - Symbolic vs Statistical Learning
@@ -34,7 +34,7 @@ The objective of this repository is to:
 
 ---
 
-### ⚙️ Optimization Algorithms
+###  Optimization Algorithms
 
 - Convex vs Non-Convex Optimization
 - Gradient Descent Variants
@@ -54,7 +54,7 @@ The objective of this repository is to:
 
 ---
 
-### 🧠 Large Language Models (LLMs)
+###  Large Language Models (LLMs)
 
 - Transformer Architecture
 - Attention Mechanism
@@ -70,7 +70,7 @@ The objective of this repository is to:
 
 ---
 
-### 👁 Computer Vision
+###  Computer Vision
 
 - Image Processing Fundamentals
 - Convolutional Neural Networks (CNN)
@@ -83,7 +83,7 @@ The objective of this repository is to:
 
 ---
 
-### 🧮 Theoretical Computer Science
+###  Theoretical Computer Science
 
 - Computational Complexity
 - P vs NP
@@ -95,7 +95,7 @@ The objective of this repository is to:
 
 ---
 
-### 🖥 Systems & Distributed Computing
+###  Systems & Distributed Computing
 
 - Operating Systems
 - Memory Management
@@ -117,7 +117,7 @@ Each directory contains structured research-style markdown articles.
 
 ---
 
-## 📌 Philosophy
+##  Philosophy
 
 - Clarity over hype
 - Mathematics over buzzwords
@@ -126,7 +126,7 @@ Each directory contains structured research-style markdown articles.
 
 ---
 
-## 🚀 Long-Term Vision
+##  Long-Term Vision
 
 - Develop a structured AI knowledge graph
 - Connect classical computer science with modern AI systems
@@ -135,7 +135,7 @@ Each directory contains structured research-style markdown articles.
 
 ---
 
-## 📖 Contributions
+##  Contributions
 
 This repository primarily contains original structured articles.  
 Future expansions may include:
@@ -148,7 +148,7 @@ Future expansions may include:
 
 ---
 
-## 👤 Author
+##  Author
 
 Computer Science Research Archive  
 Maintained as a structured and evolving technical documentation project.
