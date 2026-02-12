@@ -5,7 +5,7 @@ These algorithms are inspired by the collective behavior of biological systems (
 
 ---
 
-### 🌟 Key Algorithms
+### Key Algorithms
 
 - **PSO** — Particle Swarm Optimization (Swarm)
 - **ACOR** — Ant Colony Optimization for Continuous Domains (Swarm)
@@ -13,7 +13,7 @@ These algorithms are inspired by the collective behavior of biological systems (
 
 ---
 
-## 📌 1. Particle Swarm Optimization (PSO)
+## 1. Particle Swarm Optimization (PSO)
 
 - **Year:** 1995
 - **Authors:** Kennedy & Eberhart
@@ -28,7 +28,7 @@ Particle Swarm Optimization (PSO) is a population-based stochastic optimization 
 
 ---
 
-## 📌 2. Ant Colony Optimization for Continuous Domains (ACOR)
+## 2. Ant Colony Optimization for Continuous Domains (ACOR)
 
 - **Year:** 2008
 - **Authors:** Socha & Dorigo
@@ -42,7 +42,7 @@ ACOR extends classical Ant Colony Optimization (ACO) to **continuous domains**:
 
 ---
 
-## 📌 3. Artificial Bee Colony (ABC)
+## 3. Artificial Bee Colony (ABC)
 
 - **Year:** 2005
 - **Authors:** Karaboğa, Derviş
@@ -55,7 +55,7 @@ ABC is inspired by the **foraging behavior of honey bees**:
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Download or link the original PDFs.
 2. Summarize the key algorithmic ideas.
