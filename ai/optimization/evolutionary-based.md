@@ -5,9 +5,7 @@ These algorithms use **mutation, crossover, and selection** to evolve candidate 
 
 ---
 
-## 🌳 Classification
-
-## 📌 2. Differential Evolution (DE)
+## 2. Differential Evolution (DE)
 
 - **Year:** 1997
 - **Authors:** Storn & Price
