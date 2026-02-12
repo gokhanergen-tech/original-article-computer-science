@@ -1,6 +1,6 @@
 # 📚 Computer Science Original Articles
 
-A structured collection of original articles covering core and advanced topics in Computer Science, Artificial Intelligence, Optimization, Large Language Models, and Computer Vision.
+A structured collection of original articles covering core and advanced topics in Computer Science.
 
 This repository is designed as a long-term technical knowledge base combining mathematical foundations, algorithmic insights, and modern research directions.
 
